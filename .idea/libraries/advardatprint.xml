@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="advardatprint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/advardatprint.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
